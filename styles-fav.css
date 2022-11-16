@@ -1,0 +1,43 @@
+.body{
+    background-color: black;
+}
+
+.logo{
+    height: 37px;
+}
+.navbar a{
+    font-weight: 900;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+.container{
+    display: flex;
+    margin: 10px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.card-fav{
+    margin: 5px;
+    margin-top: 20px;
+    color: aliceblue;
+    
+   
+}
+.card-fav p{
+    font-weight: 800;
+}
+.black:hover{
+    color: black;
+}
+.red:hover{
+    color: #DD5353;
+}
+.fav-img{
+    height: 300px;
+    width: 250px;
+}
+.btn-danger{
+    margin-left: 5%;
+    width: 230px;
+}
